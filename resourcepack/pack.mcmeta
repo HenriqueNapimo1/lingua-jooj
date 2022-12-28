@@ -1,0 +1,13 @@
+{ 
+  "pack": {
+    "pack_format": 12,
+    "description": "Adiciona a Língua JooJ no Minecraft"
+  },
+  "language": {
+    "jo_OJ": {
+      "name": "Língua JooJ",
+      "region": "País JooJ",
+      "bidirectional": false
+    }
+  }
+}
